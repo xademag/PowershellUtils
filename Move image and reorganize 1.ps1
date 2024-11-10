@@ -5,7 +5,7 @@
 # Define the root path where the media files are located
 $rootPath = "\\Synology\photo\To SOrt"
 $OrgaFolder = "\\Synology\photo\Organization"
-$prefix = ""
+$prefix = "NEW"
 $incnotfound=0
 $foldercount=0
 $totalFiles=0
